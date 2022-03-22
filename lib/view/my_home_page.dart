@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:organizacaodiaria/screens/create_day_page.dart';
+import 'package:organizacaodiaria/pages/create_day_page.dart';
 import 'day_page.dart';
 
 class MyHomePage extends StatefulWidget {

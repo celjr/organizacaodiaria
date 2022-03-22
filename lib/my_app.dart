@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'screens/my_home_page.dart';
+import 'pages/my_home_page.dart';
 
 class MyApp extends StatelessWidget {
   final String titleApp;

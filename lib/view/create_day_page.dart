@@ -14,6 +14,7 @@ class CreateDayPage extends StatelessWidget {
         Container(
           margin: const EdgeInsets.all(20),
           padding: const EdgeInsets.all(20),
+          width: screenSize.width * 0.4,
           color: Colors.blueGrey,
           child: Column(
             children: const [
