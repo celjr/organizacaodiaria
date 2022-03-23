@@ -17,10 +17,11 @@ class CreateDayPage extends StatelessWidget {
           width: screenSize.width * 0.4,
           color: Colors.blueGrey,
           child: Column(
-            children: const [
-              Text(
+            children: [
+              const Text(
                 "Criando dia",
-              )
+              ),
+              TextFormField()
             ],
             crossAxisAlignment: CrossAxisAlignment.center,
           ),
