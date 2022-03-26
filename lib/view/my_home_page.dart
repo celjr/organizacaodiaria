@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:organizacaodiaria/pages/create_day_page.dart';
+import 'package:organizacaodiaria/view/create_organization_page.dart';
 import 'day_page.dart';
 
 class MyHomePage extends StatefulWidget {
@@ -12,7 +12,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  int _selectedIndex = 0;
+  int _selectedIndex = 1;
 
   void _pressNavBarBottom(int index) {
     setState(() {
