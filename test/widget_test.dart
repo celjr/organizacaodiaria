@@ -7,7 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import '/home/celjr/Documentos/Projetos/Flutter/organizacaodiaria/lib/my_app.dart';
+import '../lib/scr/my_app.dart';
 import 'package:organizacaodiaria/main.dart';
 
 void main() {

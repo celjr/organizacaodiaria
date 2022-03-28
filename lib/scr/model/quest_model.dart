@@ -1,10 +1,10 @@
-class ActivityModel {
+class QuestModel {
   String name;
-  String description;
+  String? description;
   double startTime;
   double endTime;
 
-  ActivityModel(
+  QuestModel(
       {this.name = '',
       this.description = '',
       this.endTime = 0,
